@@ -1,0 +1,53 @@
+*{
+    padding: 0%;
+    margin: 0%
+    
+}
+#Navbar{
+    background-color: rgb(49, 167, 214);
+    height: 50px;
+}
+#history{
+    height: 300px;
+    width: 300px;
+}
+a{
+    text-decoration: none;
+    margin-right: 225px;
+    color: white;
+}
+#heading{
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(106, 196, 232);
+    border-radius: 20px;
+    width: 55px
+        
+    text-align: center;
+    margin: 20px;
+    padding: 15px;
+    color: rgb(106, 196, 232);
+}
+#About {
+    text-align: center;
+    color: rgb(106, 196, 232);
+    border: 2px;
+    border-color: rgb(106, 196, 232);
+    border-style: solid;
+    border-radius: 20px;
+    margin: 20px;
+}
+#about1{
+    margin: 10px;
+    align-items: center;
+    display: flex;
+}
+#Article{
+    text-align: center;
+    border: 2px;
+    border-color: rgb(106, 196, 232);
+    border-style: solid;
+    border-radius: 20px;
+    margin: 20px;
+    color: rgb(106, 196, 232);
+}
